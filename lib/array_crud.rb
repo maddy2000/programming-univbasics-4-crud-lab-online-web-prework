@@ -1,5 +1,5 @@
 def create_an_empty_array
-learn  
+learn --fail-fast  
 end
 
 def create_an_array
